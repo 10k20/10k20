@@ -4,8 +4,8 @@
 ![](https://img.shields.io/badge/-Django-black?style=for-the-badge&logo=django&)
 ![](https://img.shields.io/badge/-Vue-black?style=for-the-badge&logo=vue.js&)
 ![](https://img.shields.io/badge/-Nuxt-black?style=for-the-badge&logo=nuxt.js&)
-![](https://img.shields.io/badge/-PHP-black?style=for-the-badge&)
-![](https://img.shields.io/badge/-Linux-black?style=for-the-badge&)
+![](https://img.shields.io/badge/-PHP-black?style=for-the-badge&logo=php&)
+![](https://img.shields.io/badge/-Linux-black?style=for-the-badge&logo=linux&)
 ![](https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker&)
 ![](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react&)
 ![](https://img.shields.io/badge/-Wordpress-black?style=for-the-badge&logo=wordpress&)
@@ -17,7 +17,6 @@
 ![](https://img.shields.io/badge/-Adobe-black?style=for-the-badge&logo=adobe&)
 ![](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git&)
 ![](https://img.shields.io/badge/-Bootstrap-black?style=for-the-badge&logo=bootstrap&)
-![](https://img.shields.io/badge/-Go-black?style=for-the-badge&logo=go&)
 ![](https://img.shields.io/badge/-Go-black?style=for-the-badge&logo=go&)
 ![](https://img.shields.io/badge/-Gulp-black?style=for-the-badge&logo=gulp&)
 
