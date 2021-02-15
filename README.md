@@ -1,6 +1,9 @@
 ## Languages and Tools
 ![](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
 ![](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python&logoColor=ffd242)
+![](https://img.shields.io/badge/-Django-black?style=for-the-badge&logo=django&logoColor=8855d6)
+![](https://img.shields.io/badge/-Vue-black?style=for-the-badge&logo=vue-dot-js&logoColor=3fba84)
+![](https://img.shields.io/badge/-Nuxt-black?style=for-the-badge&logo=nuxt-dot-js&logoColor=3bc58e)
 ![](https://img.shields.io/badge/-PHP-black?style=for-the-badge&logo=PHP)
 ![](https://img.shields.io/badge/-Linux-black?style=for-the-badge&logo=linux)
 ![](https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker&logoColor=3291e5)
