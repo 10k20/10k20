@@ -1,4 +1,4 @@
-## Languages and Tools
+## 言語とツール
 ![](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
 ![](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python&logoColor=ffd242)
 ![](https://img.shields.io/badge/-Django-black?style=for-the-badge&logo=django&logoColor=8855d6)
