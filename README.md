@@ -1,5 +1,5 @@
 ## 言語とツール
-![](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&)
+![](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript&)
 ![](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python&)
 ![](https://img.shields.io/badge/-Django-black?style=for-the-badge&logo=django&)
 ![](https://img.shields.io/badge/-Vue-black?style=for-the-badge&logo=vue.js&)
