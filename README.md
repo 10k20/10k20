@@ -1,16 +1,10 @@
-### Hi there 👋
-
-<!--
-**10k20/10k20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Languages and Tools
+![](https://img.shields.io/badge/-Linux-black?style=for-the-badge&logo=linux)
+![](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
+![](https://img.shields.io/badge/-PHP-black?style=for-the-badge&logo=PHP)
+![](https://img.shields.io/badge/-C-black?style=for-the-badge&logo=C)
+![](https://img.shields.io/badge/-C++-black?style=for-the-badge&logo=C%2b%2b&logoColor=004481)
+![](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python&logoColor=ffd242)
+![](https://img.shields.io/badge/-Jekyll-black?style=for-the-badge&logo=jekyll&logoColor=c00002)
+![](https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=mysql&logoColor=e87102)
+![](https://img.shields.io/badge/-Bootstrap-black?style=for-the-badge&logo=bootstrap&logoColor=8855d6)
