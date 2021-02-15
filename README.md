@@ -14,10 +14,11 @@
 ![](https://img.shields.io/badge/-Jira-black?style=for-the-badge&logo=jira&logoColor=3080f7)
 ![](https://img.shields.io/badge/-Jenkins-black?style=for-the-badge&logo=jenkins&)
 ![](https://img.shields.io/badge/-Postman-black?style=for-the-badge&logo=postman&)
-![](https://img.shields.io/badge/-Adobe-black?style=for-the-badge&logo=adobe&)
+![](https://img.shields.io/badge/-Adobe-black?style=for-the-badge&logo=adobe&logoColor=ed0e05)
 ![](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git&)
 ![](https://img.shields.io/badge/-Bootstrap-black?style=for-the-badge&logo=bootstrap&)
 ![](https://img.shields.io/badge/-Go-black?style=for-the-badge&logo=go&)
 ![](https://img.shields.io/badge/-Gulp-black?style=for-the-badge&logo=gulp&)
+![](https://img.shields.io/badge/-Npm-black?style=for-the-badge&logo=npm&)
 
 ![](https://img.shields.io/badge/Welcome%20to-my%20page-38bd85?style=for-the-badge&)
