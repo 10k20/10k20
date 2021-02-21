@@ -20,6 +20,6 @@
 ![](https://img.shields.io/badge/-Go-black?style=for-the-badge&logo=go&)
 ![](https://img.shields.io/badge/-Gulp-black?style=for-the-badge&logo=gulp&)
 ![](https://img.shields.io/badge/-Npm-black?style=for-the-badge&logo=npm&)
-![](https://img.shields.io/badge/-ThreeJs-black?style=for-the-badge&logo=three.js&)
+![](https://img.shields.io/badge/-Three-black?style=for-the-badge&logo=three.js&)
 
 ![](https://img.shields.io/badge/Welcome%20to-my%20page-38bd85?style=for-the-badge&)
