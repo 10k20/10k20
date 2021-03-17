@@ -1,7 +1,7 @@
 ## ソーシャル
-[![](https://img.shields.io/badge/-discord-0d1117?style=for-the-badge&logo=discord&logoColor=7289DA)](https://discordapp.com/users/593442349686718477)
-[![](https://img.shields.io/badge/-facebook-0d1117?style=for-the-badge&logo=discord&logoColor=7289DA)](https://www.facebook.com/mark.ushida.35)
-[![](https://img.shields.io/badge/-stackoverflow-0d1117?style=for-the-badge&logo=discord&logoColor=7289DA)](https://stackoverflow.com/users/12933483/10k20)
+[![](https://img.shields.io/badge/-discord-0d1117?style=for-the-badge&logo=discord&)](https://discordapp.com/users/593442349686718477)
+[![](https://img.shields.io/badge/-facebook-0d1117?style=for-the-badge&logo=facebook&)](https://www.facebook.com/mark.ushida.35)
+[![](https://img.shields.io/badge/-stackoverflow-0d1117?style=for-the-badge&logo=stackoverflow&)](https://stackoverflow.com/users/12933483/10k20)
 
 ## テクノロジー
 ![](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript&)
@@ -26,8 +26,6 @@
 ![](https://img.shields.io/badge/-Gulp-black?style=for-the-badge&logo=gulp&)
 ![](https://img.shields.io/badge/-Npm-black?style=for-the-badge&logo=npm&)
 ![](https://img.shields.io/badge/-Three-black?style=for-the-badge&logo=three.js&)
-
-![](https://img.shields.io/badge/Welcome%20to-my%20page-38bd85?style=for-the-badge&)
 
 ![](https://github-readme-stats.vercel.app/api?username=10k20&title_color=8a6ad9&bg_color=0d1117&text_color=e9f5f2&hide_border=true)
 
