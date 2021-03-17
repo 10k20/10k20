@@ -23,3 +23,7 @@
 ![](https://img.shields.io/badge/-Three-black?style=for-the-badge&logo=three.js&)
 
 ![](https://img.shields.io/badge/Welcome%20to-my%20page-38bd85?style=for-the-badge&)
+
+![](https://github-readme-stats.vercel.app/api?username=10k20&title_color=8a6ad9&bg_color=0d1117&text_color=e9f5f2&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=10k20&title_color=8a6ad9&bg_color=0d1117&text_color=e9f5f2&hide_border=true)
