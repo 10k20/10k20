@@ -29,4 +29,4 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=10k20&title_color=8a6ad9&bg_color=0d1117&text_color=e9f5f2&hide_border=true&show_icons=true&include_all_commits=true&count_private=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=10k20&title_color=8a6ad9&bg_color=0d1117&text_color=e9f5f2&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=10k20&title_color=8a6ad9&bg_color=0d1117&text_color=e9f5f2&hide_border=true&langs_count=10)
