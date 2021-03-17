@@ -13,6 +13,7 @@
 ![](https://img.shields.io/badge/-Linux-black?style=for-the-badge&logo=linux&)
 ![](https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker&)
 ![](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react&)
+![](https://img.shields.io/badge/-Redux-black?style=for-the-badge&logo=redux&)
 ![](https://img.shields.io/badge/-Wordpress-black?style=for-the-badge&logo=wordpress&)
 ![](https://img.shields.io/badge/-Apache-black?style=for-the-badge&logo=apache&logoColor=a40302)
 ![](https://img.shields.io/badge/-Nginx-black?style=for-the-badge&logo=nginx&)
