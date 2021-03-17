@@ -28,6 +28,6 @@
 ![](https://img.shields.io/badge/-Npm-black?style=for-the-badge&logo=npm&)
 ![](https://img.shields.io/badge/-Three-black?style=for-the-badge&logo=three.js&)
 
-![](https://github-readme-stats.vercel.app/api?username=10k20&title_color=8a6ad9&bg_color=0d1117&text_color=e9f5f2&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs)
+![](https://github-readme-stats.vercel.app/api?username=10k20&title_color=fb12ff&bg_color=0d1117&text_color=fb12ff&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=10k20&title_color=8a6ad9&bg_color=0d1117&text_color=e9f5f2&hide_border=true&langs_count=10&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=10k20&title_color=12b4ff&bg_color=0d1117&text_color=12b4ff&hide_border=true&langs_count=10&layout=compact)
