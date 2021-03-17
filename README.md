@@ -30,4 +30,4 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=10k20&title_color=fb12ff&bg_color=0d1117&text_color=fb12ff&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=10k20&title_color=00ddff&bg_color=0d1117&text_color=00ddff&hide_border=true&langs_count=10&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=10k20&title_color=1cbbff&bg_color=0d1117&text_color=1cbbff&hide_border=true&langs_count=10&layout=compact)
