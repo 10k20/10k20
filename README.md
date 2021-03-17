@@ -1,4 +1,9 @@
-## 言語とツール
+## ソーシャル
+[![](https://img.shields.io/badge/-discord-0d1117?style=for-the-badge&logo=discord&logoColor=7289DA)](https://discordapp.com/users/593442349686718477)
+[![](https://img.shields.io/badge/-facebook-0d1117?style=for-the-badge&logo=discord&logoColor=7289DA)](https://www.facebook.com/mark.ushida.35)
+[![](https://img.shields.io/badge/-stackoverflow-0d1117?style=for-the-badge&logo=discord&logoColor=7289DA)](https://stackoverflow.com/users/12933483/10k20)
+
+## テクノロジー
 ![](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript&)
 ![](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python&)
 ![](https://img.shields.io/badge/-Django-black?style=for-the-badge&logo=django&logoColor=103e2e)
