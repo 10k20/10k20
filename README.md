@@ -8,6 +8,7 @@
 ![](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react&)
 ![](https://img.shields.io/badge/-Redux-black?style=for-the-badge&logo=redux&)
 ![](https://img.shields.io/badge/-Vue-black?style=for-the-badge&logo=vue.js&)
+![](https://img.shields.io/badge/-VueX-black?style=for-the-badge&logo=vue.js&)
 ![](https://img.shields.io/badge/-Nuxt-black?style=for-the-badge&logo=nuxt.js&)
 ![](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python&)
 ![](https://img.shields.io/badge/-Django-black?style=for-the-badge&logo=django&logoColor=103e2e)
